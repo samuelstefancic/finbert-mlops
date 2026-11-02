@@ -1,0 +1,14 @@
+{
+  "run_id": "9c2dd39e86b34d79b93dadf03b00be69",
+  "status": "FINISHED",
+  "metrics": {
+    "accuracy": 0.6384284837323512,
+    "f1_weighted": 0.5900813025649203,
+    "precision_weighted": 0.6111085570616606,
+    "recall_weighted": 0.6384284837323512
+  },
+  "params": {
+    "model_id": "baptle/FinBERT_market_based",
+    "test_samples": "1629"
+  }
+}

@@ -1,0 +1,3 @@
+[lint.per-file-ignores]
+"tests/conftest.py" = ["E402"]
+"scripts/run_deepchecks.py" = ["E402"]
